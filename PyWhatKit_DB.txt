@@ -1,0 +1,35 @@
+Date: 27/3/2025
+Time: 15:4
+Phone Number: +916306190576
+Message: Reminder: vinay
+--------------------
+Date: 27/3/2025
+Time: 15:16
+Phone Number: +916306190576
+Message: Reminder: SarikaDescription: give me a kissDate: 2025-03-27Time: 15:16
+--------------------
+Date: 27/3/2025
+Time: 15:19
+Phone Number: +916306190576
+Message: Reminder: vinayDescription: you have to meet with SarikaDate: 2025-03-27Time: 15:19
+--------------------
+Date: 27/3/2025
+Time: 21:27
+Phone Number: +916306190576
+Message: Reminder: SarikaDescription: hvhjDate: 2025-03-27Time: 21:27
+--------------------
+Date: 28/3/2025
+Time: 0:59
+Phone Number: +916306190576
+Message: Reminder: jhgvjhDescription: jhvjDate: 2025-03-15Time: 00:59
+--------------------
+Date: 28/3/2025
+Time: 13:37
+Phone Number: +916306190576
+Message: Reminder: SarikaDescription: ugfyDate: 2025-03-28Time: 13:37
+--------------------
+Date: 28/3/2025
+Time: 15:10
+Phone Number: +916306190576
+Message: Reminder Task: Meeting Description: A meeting with Vinay Date: 2025-03-28Time: 15:10
+--------------------

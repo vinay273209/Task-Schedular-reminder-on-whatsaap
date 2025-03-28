@@ -1,0 +1,8 @@
+Flask==2.2.3
+Flask-SQLAlchemy==2.5.1
+SQLAlchemy==1.4.46
+pywhatkit==5.4
+schedule==1.1.0
+Werkzeug==2.2.3
+itsdangerous==2.1.2
+sqlalchemy<2.0
